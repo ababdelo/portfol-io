@@ -1,7 +1,7 @@
 ## <p style="color: #6BAEE5;" align="center">` Portfolio `</p>
 
 <p>
-Hey there! Welcome to my personal portfolio repository. Looking to get a glimpse of what I've been working on lately? Dive into <a style="color: #6BAEE5;" href="https://ababdelo.github.io/portfolio" target="blank"> my portfolio</a> to explore my projects, skills, and more.
+Hey there! Welcome to my personal portfolio repository. Looking to get a glimpse of what I've been working on lately? Dive into <a style="color: #6BAEE5;" href="https://edunwant42.tech" target="blank"> my portfolio</a> to explore my projects, skills, and more.
 </p>
 
 ### ` Features :`
