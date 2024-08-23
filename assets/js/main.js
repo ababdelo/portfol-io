@@ -1,6 +1,6 @@
 import './script.js';
 import './canvas.js';
-import './scrt.js';
+// import './scrt.js';
 import './age.js';
 import './scramble.js';
 
